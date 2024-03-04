@@ -1,0 +1,4 @@
+C:\VB\work\C++ Visual Interface For class\VisualHatWardrobe\VisualHatWardrobe\Debug\VisualHatWardrobe.vcxproj.AssemblyReference.cache
+C:\VB\work\C++ Visual Interface For class\VisualHatWardrobe\VisualHatWardrobe\Debug\VisualHatWardrobe.MyForm.resources
+C:\VB\work\C++ Visual Interface For class\VisualHatWardrobe\VisualHatWardrobe\Debug\VisualHatWardrobe.vcxproj.GenerateResource.cache
+C:\VB\work\C++ Visual Interface For class\VisualHatWardrobe\VisualHatWardrobe\Debug\VisualHatWardrobe.CreateForm.resources
